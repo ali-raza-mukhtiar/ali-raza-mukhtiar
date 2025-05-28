@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-
-
+🌱 I'm currently focused on Front-End Web Development while expanding my skill set in javascript, firebase, api,s, and react.js to become a well-rounded full-stack developer.
+---
 ## 💻 Tech Stack
 
 <p align="center">
